@@ -1,2 +1,0 @@
-# hasanmunif
-my first repository
